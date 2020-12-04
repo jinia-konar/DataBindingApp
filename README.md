@@ -6,7 +6,7 @@ Android data binding is part of an [android jetpack](https://developer.android.c
 ##### Without Data Binding
 ```
 TextView myName = findViewById(R.id.m);
-myName.setText(“Mustufa Ansari”)
+myName.setText(“XYZ”)
 ```
 
 ##### With Data Binding
